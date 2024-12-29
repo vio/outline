@@ -13760,10 +13760,10 @@ rollup-plugin-node-resolve@^3.0.0:
     is-module "^1.0.0"
     resolve "^1.1.6"
 
-rollup-plugin-webpack-stats@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-webpack-stats/-/rollup-plugin-webpack-stats-0.4.1.tgz#e66f691b7735e9fca39fc0302089632c80b3e03f"
-  integrity sha512-Zi7t0G7FtA55LNcU9B3s2gBo3PODbdo+288Cw2/4sA8+o9H/ahhWZ25UxADeHwriAzW808iDpPbB81C5jGLIbg==
+rollup-plugin-webpack-stats@^1.2.4-beta.6:
+  version "1.2.4-beta.6"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-webpack-stats/-/rollup-plugin-webpack-stats-1.2.4-beta.6.tgz#16c7a5aac625064fe41d39b9f4f8f45cd09e0b53"
+  integrity sha512-YYX4amI7VYy50W8g0ZKJCI6jd07PxQmPjYv9yjybLuKkmsge8Y3423ytyp77SpRbdT7mhuNI+anaN8Iox8Dd9A==
 
 rollup@^0.41.4, rollup@^2.43.1, rollup@^4.20.0, rollup@^4.5.1:
   version "4.5.1"
